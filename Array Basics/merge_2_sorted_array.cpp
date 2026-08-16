@@ -41,7 +41,7 @@ int main()
     cout<<crr[i]<<" ";
  }
 
-
+ // sort function
  sort(crr,crr+k);
 
  cout<<"\n";
